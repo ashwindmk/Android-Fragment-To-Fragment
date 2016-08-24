@@ -1,0 +1,2 @@
+Fragment To Fragment is a simple Android project that shows how to navigate from an activity to a fragment and from a fragment to another fragment.
+Main Activity -> Main Fragment -> Fragment 1 -> Main Activity
